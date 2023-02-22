@@ -2,3 +2,6 @@ novo texto para branch
 a
 b
 c
+d
+e
+f
